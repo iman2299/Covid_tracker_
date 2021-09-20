@@ -3,8 +3,9 @@
 .third_country,
 .forth_country {
     background-color: #1E1E1E;
-    width: 18%;
+    width: 17%;
     border-top: 5px solid red;
+    border-radius: 4px;
 }
 
 .forth_images {
@@ -59,3 +60,11 @@
     margin-right: 3%;
     font-size: xx-large;
 }
+
+@media (min-width:320px) and (max-width:480px) {}
+
+@media (min-width:481px) and (max-width:798px) {}
+
+@media (min-width: 1025px) and (max-width:1200px) {}
+
+@media (min-width:1201px) {}

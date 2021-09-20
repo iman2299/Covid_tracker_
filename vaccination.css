@@ -5,13 +5,13 @@
     width: 100%;
     color: white;
     margin-top: 40px;
-    direction: ltr;
+    margin-bottom: 4%;
 }
 
 .continent {
     width: 14%;
     background-color: #1e1e1e;
-    border-top: 5px solid GRAY;
+    border-top: 5px solid #00bf4a;
     text-align: center;
 }
 
@@ -38,5 +38,5 @@
 }
 
 #all_pop {
-    color: #3b81f7;
+    color: red;
 }
